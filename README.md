@@ -23,9 +23,9 @@
 <code><img width="10%" src="https://gitlab.com/uploads/-/system/group/avatar/6593371/kicadlogo.png"></code>
 --->
 # Stats
-[![Tryffin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Tryffin&theme=tokyonight&show_icons=true)]
+[!Tryffin's GitHub stats(https://github-readme-stats-eight-theta.vercel.app/api?username=Tryffin&theme=tokyonight&show_icons=true)]
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tryffin&layout=compact&theme=dark&show_icons=true)]
+[!Top Langs(https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tryffin&layout=compact&theme=dark&show_icons=true)]
 <!---
 Tryffin/Tryffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
